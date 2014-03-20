@@ -228,7 +228,6 @@ void loop()
                                             //  will execute the next motion with
                                             //  the right speed.
 
-
   delay(100);
 }
 
